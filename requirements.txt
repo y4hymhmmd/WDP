@@ -1,0 +1,9 @@
+tensorflow
+numpy
+requests
+Pillow
+scikit-learn
+instagrapi
+rich
+flask
+gunicorn
